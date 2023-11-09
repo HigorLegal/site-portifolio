@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+* {
+    background: rgb(29, 1, 29);
+}
+
+.main {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.profileIMG img {
+    width: 100px;
+    border-radius: 99px;
+border: solid 2px white;
+}
+
+.name {
+    font-family: 'Comfortaa', sans-serif;
+    padding-top: 20px;
+
+}
+
+.about {
+    
+    font-size: 20px;
+}
+
+.idade {
+    font-family: 'Comfortaa', sans-serif;   
+}
+ul{
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 23px;
+    list-style: none;
+padding:0px ;
+}li{
+    padding-top:10px;
+}
+.links{
+    display:flex;
+    justify-content: center;
+    gap: 5px;
+
+}a{
+    text-decoration: none;
+    
+}
+ion-icon{
+color: aliceblue;
+}
